@@ -1,4 +1,4 @@
 ## Neural Spatio-Temporal Filtering for Target Speech Separation
 submitted to Interspeech2020 by Yong Xu, Meng Yu, Shixiong Zhang, Lianwu Chen, Chao Weng, Dong Yu, Tencent AI lab, Bellevue, USA
 
-<img src="system_overview.jpg" alt="hi" class="inline"/>
+<img src="system_overview.png" alt="hi" class="inline"/>
